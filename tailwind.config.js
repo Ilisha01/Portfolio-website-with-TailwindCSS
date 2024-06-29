@@ -1,7 +1,7 @@
 /** @type {import('tailwindcss').Config} */
 {import('tailwindcss').Config}
 module.exports = {
-  content: ['./index.html', './src/**/*.{html,js}', './src/input.css'],
+  content: ['./index.html', './src/**/*.{html,js}', '.Portfolio-website-with-TailwindCSS/src/input.css'],
   theme: {
     fontFamily: {
       sans: ['Open Sans', 'sans-serif'],
